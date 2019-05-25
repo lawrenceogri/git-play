@@ -57,6 +57,15 @@ or in one step...
 
 
 ## Undo Changes
+
+### Checkout
 `git checkout` 
 
 `git checkout -- [file name]` Don't checkout a branch, check out a file on this directory
+
+### Unstage
+`git reset HEAD [File Name]`
+
+### Ammending Commit
+`git commit ammend -m "Commit message"`
+
