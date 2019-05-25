@@ -1,5 +1,5 @@
 # git-play
-This is a repo to practice git commands
+This is a repo to practice git commands, learn markdown and add badges!
 
 ## Getting Started
 
