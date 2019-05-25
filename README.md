@@ -46,4 +46,10 @@ This is a repo to practice git commands, learn markdown and add badges!
 ### Delete Files
 `git rm [File Name]` Afterward, commit changes(deletions) with `git commit`
 
-### Renaming Files
+### Renaming/Moving Files
+`git add [New File Name]`
+
+`git rm [Old File Name]`
+
+or in one step...
+`git mv [Old File Name] [Folder Dir/New File Name]`
