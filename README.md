@@ -1,4 +1,4 @@
-# git-play
+# git-play [![Build Status](https://travis-ci.org/lawrenceogri/git-play.svg?branch=master)](https://travis-ci.org/lawrenceogri/git-play)
 This is a repo to practice git commands, learn markdown and add badges!
 
 ## Getting Started
