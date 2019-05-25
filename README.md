@@ -53,3 +53,10 @@ This is a repo to practice git commands, learn markdown and add badges!
 
 or in one step...
 `git mv [Old File Name] [Folder Dir/New File Name]`
+
+
+
+## Undo Changes
+`git checkout` 
+
+`git checkout -- [file name]` Don't checkout a branch, check out a file on this directory
