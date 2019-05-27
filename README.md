@@ -1,4 +1,7 @@
 # git-play [![Build Status](https://travis-ci.org/lawrenceogri/git-play.svg?branch=master)](https://travis-ci.org/lawrenceogri/git-play)
+
+[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
+
 This is a repo to practice git commands, learn markdown and add badges!
 
 ## Getting Started
