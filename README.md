@@ -67,5 +67,25 @@ or in one step...
 `git reset HEAD [File Name]`
 
 ### Ammending Commit
-`git commit ammend -m "Commit message"`
+`git commit amend -m "Commit message"`
+
+### Retrieving Old Versions
+`git checkout SHA -- [File Name]`
+
+### Reverting a Commit
+`git revert SHA` Reverts changes made and commits revision
+
+### Using Reset to Undo Changes
+`git reset --soft SHA`
+
+`git reset --mixed SHA` Default
+
+`git rest --hard SHA`
+
+### Remove Untracked File
+`git clean -f`
+
+
+## Using Git Ignore
+
 
