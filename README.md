@@ -1,6 +1,6 @@
-# git-play [![Build Status](https://travis-ci.org/lawrenceogri/git-play.svg?branch=master)](https://travis-ci.org/lawrenceogri/git-play)
+# git-play 
+[![Build Status](https://travis-ci.org/lawrenceogri/git-play.svg?branch=master)](https://travis-ci.org/lawrenceogri/git-play) [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/lawrenceogri) [![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/lawrenceogri/AutoMart)
 
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/kennethreitz)
 
 This is a repo to practice git commands, learn markdown and add badges!
 
